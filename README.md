@@ -1,6 +1,6 @@
 # savepower
 
-A new Flutter application.
+A new Flutter application. This app is aimed at saving the power. This app reminds with prolonged alarm if didn't switch off lights and slept
 
 ## Getting Started
 
